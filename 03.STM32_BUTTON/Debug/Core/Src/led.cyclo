@@ -1,0 +1,13 @@
+led.c:18:6:button0_led_all_on_off_toggle	3
+led.c:38:6:button0_toggle	10
+led.c:78:6:led_bar_up	3
+led.c:96:6:led_bar_down	3
+led.c:116:6:led_main	1
+led.c:185:6:led_flower_on	2
+led.c:197:6:led_flower_off	2
+led.c:213:6:led_keepon_up	2
+led.c:222:6:led_keepon_down	2
+led.c:234:6:led_on_up	2
+led.c:245:6:led_on_down	2
+led.c:256:6:led_all_on	1
+led.c:263:6:led_all_off	1

@@ -1,0 +1,5 @@
+fnd4dight.c:30:6:fnd4digit_main	3
+fnd4dight.c:82:6:fnd4digit_sec_clock	3
+fnd4dight.c:113:6:FND_update	1
+fnd4dight.c:122:6:FND4digit_off	1
+fnd4dight.c:134:6:FND4digit_on	1

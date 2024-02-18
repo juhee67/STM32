@@ -1,0 +1,11 @@
+main.c:118:6:HAL_SYSTICK_Handler	1
+main.c:135:1:__io_putchar	1
+main.c:148:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:157:6:delay_us	2
+main.c:189:6:HAL_ADC_ConvCpltCallback	2
+main.c:198:6:nucleo_stm32f429zi_led_off	1
+main.c:166:6:HAL_GPIO_EXTI_Callback	4
+main.c:204:6:nucleo_stm32f429zi_led_on	1
+main.c:352:6:SystemClock_Config	3
+main.c:223:5:main	29
+main.c:1051:6:Error_Handler	1

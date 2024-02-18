@@ -1,0 +1,3 @@
+../Core/Src/stepmotor.c:25:6:set_rpm	16	static
+../Core/Src/stepmotor.c:32:6:stepmotor_main_test	24	static
+../Core/Src/stepmotor.c:165:6:stepmotor_drive	16	static

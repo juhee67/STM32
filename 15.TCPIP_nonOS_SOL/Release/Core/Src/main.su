@@ -1,0 +1,11 @@
+../Core/Src/main.c:119:6:HAL_SYSTICK_Handler	0	static
+../Core/Src/main.c:136:1:__io_putchar	16	static
+../Core/Src/main.c:149:6:HAL_TIM_PeriodElapsedCallback	0	static
+../Core/Src/main.c:158:6:delay_us	0	static
+../Core/Src/main.c:190:6:HAL_ADC_ConvCpltCallback	8	static
+../Core/Src/main.c:199:6:nucleo_stm32f429zi_led_off	8	static
+../Core/Src/main.c:167:6:HAL_GPIO_EXTI_Callback	8	static
+../Core/Src/main.c:205:6:nucleo_stm32f429zi_led_on	8	static
+../Core/Src/main.c:378:6:SystemClock_Config	88	static,ignoring_inline_asm
+../Core/Src/main.c:230:5:main	96	static,ignoring_inline_asm
+../Core/Src/main.c:1077:6:Error_Handler	0	static,ignoring_inline_asm

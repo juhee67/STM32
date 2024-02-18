@@ -1,0 +1,4 @@
+../Core/Src/dotmatrix.c:271:6:init_dotmatrix	24	static
+../Core/Src/dotmatrix.c:294:6:write_column_data	24	static
+../Core/Src/dotmatrix.c:306:6:write_row_data	24	static
+../Core/Src/dotmatrix.c:325:5:dotmatrix_main_test	64	static
