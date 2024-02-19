@@ -1,0 +1,11 @@
+elevator.c:40:6:button_control	13
+elevator.c:121:6:stepmotor_elevator	18
+elevator.c:202:6:i2c_lcd_display	13
+elevator.c:280:6:fnd_display	13
+elevator.c:346:6:fnd_current_floor_display	5
+elevator.c:374:6:display_lcd_fnd	13
+elevator.c:472:6:cds_led	2
+elevator.c:486:6:dotmatrix_main	5
+elevator.c:509:6:elevator_init	1
+elevator.c:530:6:elevator_run	1
+elevator.c:548:6:elevator_main	1

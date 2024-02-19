@@ -1,0 +1,6 @@
+dotmatrix.c:223:6:init_dotmatrix_up	5
+dotmatrix.c:246:6:init_dotmatrix_down	5
+dotmatrix.c:272:6:write_column_data	3
+dotmatrix.c:284:6:write_row_data	3
+dotmatrix.c:303:5:dotmatrix_main_up	6
+dotmatrix.c:345:5:dotmatrix_main_down	6

@@ -1,0 +1,3 @@
+stepmotor.c:25:6:set_rpm	1
+stepmotor.c:34:6:stepmotor_main_test	8
+stepmotor.c:108:6:stepmotor_drive	12

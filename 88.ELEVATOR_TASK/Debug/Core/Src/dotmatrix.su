@@ -1,0 +1,6 @@
+../Core/Src/dotmatrix.c:223:6:init_dotmatrix_up	24	static
+../Core/Src/dotmatrix.c:246:6:init_dotmatrix_down	24	static
+../Core/Src/dotmatrix.c:272:6:write_column_data	24	static
+../Core/Src/dotmatrix.c:284:6:write_row_data	24	static
+../Core/Src/dotmatrix.c:303:5:dotmatrix_main_up	24	static
+../Core/Src/dotmatrix.c:345:5:dotmatrix_main_down	24	static

@@ -1,0 +1,11 @@
+../Core/Src/elevator.c:40:6:button_control	8	static
+../Core/Src/elevator.c:121:6:stepmotor_elevator	16	static
+../Core/Src/elevator.c:202:6:i2c_lcd_display	48	static
+../Core/Src/elevator.c:280:6:fnd_display	8	static
+../Core/Src/elevator.c:346:6:fnd_current_floor_display	8	static
+../Core/Src/elevator.c:374:6:display_lcd_fnd	48	static
+../Core/Src/elevator.c:472:6:cds_led	8	static
+../Core/Src/elevator.c:486:6:dotmatrix_main	8	static
+../Core/Src/elevator.c:509:6:elevator_init	48	static
+../Core/Src/elevator.c:530:6:elevator_run	8	static
+../Core/Src/elevator.c:548:6:elevator_main	8	static
